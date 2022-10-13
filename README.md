@@ -72,8 +72,10 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 ---
 ### 🔥: My Stats :
+<div align="center">
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=bijoaja&theme=dark&background=000000)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bijoaja&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+</div>
 
 ---
 

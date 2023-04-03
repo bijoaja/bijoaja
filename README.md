@@ -42,8 +42,8 @@ Here are some ideas to get you started:
 ---
 
 ### 👨‍💻: About Me :
-I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Indonesia.
-- 👨‍💻: I’m student as a Front Engineering at RuangGuru or PT RUANG RAYA INDONESIA
+I am a Frontend Developer | AI Computer Vision Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Indonesia.
+- 👨‍💻: I’m student as a Artificial Intelligence Computer Vision at Startup Campus
 
 - 👨‍🎓: Study in Jember University
 

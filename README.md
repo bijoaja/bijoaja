@@ -42,13 +42,10 @@ Here are some ideas to get you started:
 ---
 
 ### 👨‍💻: About Me :
-I am a Frontend Developer | AI Computer Vision Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Indonesia.
-- 👨‍💻: I’m student as a Artificial Intelligence Computer Vision at Startup Campus
-
-- 👨‍🎓: Study in Jember University
-
-- 🏊‍♂️: Hobby is Swimming
-
+I am a Frontend Developer | AI Computer Vision Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> at Infused-Asia from Indonesia.
+- 👨‍💻: I’m graduation Artificial Intelligence Computer Vision at Startup Campus
+- 👨‍🎓: Graduation Computer Science from Jember University
+- 🏊‍♂️: Hobby is Swimming, Futsal, Football, Esport
 - ⚡: In my free time, I solve problems on GeeksforGeeks and read tech articles.
 
 - 📫:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-BIJOAJA-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/joelbinsar)

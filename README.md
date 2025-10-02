@@ -36,8 +36,9 @@
 
 ### 👨‍💻 About Me
 - 🎓 Graduated in **Computer Science** from Jember University  
-- 🤖 Certified in **AI Computer Vision** at Startup Campus  
-- 💼 Currently working as a **Frontend Developer & AI Developer** at **Infused-Asia**  
+- 🤖 Certified in **AI Computer Vision** at Startup Campus
+- 📺 Certified in **FRONTEND WEB DEVELOPER** at Ruang Guru
+- 💼 Currently working as a **FULLSTACK AI Developer** at **Infused-Asia**  
 - ⚡ I love solving coding challenges on GeeksforGeeks and reading tech blogs  
 - 🏊 Hobbies: Swimming, Futsal, Football, and Esports  
 
@@ -49,15 +50,17 @@
 - 🖼️ **AI Computer Vision Projects** – Image classification, object detection, and OCR systems  
 - 💬 **Chat Interface with WhatsApp API** – Real-time chat app with socket.io integration  
 - 📊 **Dashboard for Analytics** – Built with React, Next.js, and TailwindCSS  
-- 📱 **Flutter Mobile App** – Cross-platform apps for Android & iOS  
+- 📱 **Natural Language Processing (NLP)** -Text classification, sentiment analysis, and text generation with **Transformers** and **NLP models**.  
 
+  
 👉 Check out more on my [GitHub Repositories](https://github.com/bijoaja?tab=repositories)
 
 ---
 
 ### 🏆 Certifications & Achievements
-- 🎖️ **Dicoding IDCamp 2025** – Belajar Dasar AI  
+- 🎖️ **AI Engineer Certificate** – Dicoding IDCamp 2025  
 - 🎓 **AI Computer Vision Certificate** – Startup Campus  
+- 🎓 **Frontend Developer Certificate** – Ruang Guru  
 - 💡 Hackathon Participant in **AI & IoT Projects**  
 - 🥇 Several achievements in coding competitions (GeeksforGeeks, HackerRank)
 
@@ -65,6 +68,9 @@
 
 ### 🛠️ Languages & Tools
 <div align="center">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" title="DJANGO" alt="DJANGO" width="50" height="50"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original-wordmark.svg" title="Flask" alt="Flask" width="50" height="50"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="50" height="50"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="50" height="50"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="50" height="50"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="50" height="50"/>&nbsp;
@@ -99,7 +105,7 @@
 ---
 
 ### 🌱 Current Goals
-- Advance in **Fullstack Development** (Next.js, Node.js, MongoDB)  
+- Advance in **Fullstack Development** (Next.js, Node.js, MongoDB, Django, Flask)  
 - Improve **AI skills** in NLP & Computer Vision  
 - Share knowledge through **open-source projects**  
 

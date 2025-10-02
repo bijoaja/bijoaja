@@ -45,6 +45,24 @@
 
 ---
 
+### 🚀 Featured Projects
+- 🖼️ **AI Computer Vision Projects** – Image classification, object detection, and OCR systems  
+- 💬 **Chat Interface with WhatsApp API** – Real-time chat app with socket.io integration  
+- 📊 **Dashboard for Analytics** – Built with React, Next.js, and TailwindCSS  
+- 📱 **Flutter Mobile App** – Cross-platform apps for Android & iOS  
+
+👉 Check out more on my [GitHub Repositories](https://github.com/bijoaja?tab=repositories)
+
+---
+
+### 🏆 Certifications & Achievements
+- 🎖️ **Dicoding IDCamp 2025** – Belajar Dasar AI  
+- 🎓 **AI Computer Vision Certificate** – Startup Campus  
+- 💡 Hackathon Participant in **AI & IoT Projects**  
+- 🥇 Several achievements in coding competitions (GeeksforGeeks, HackerRank)
+
+---
+
 ### 🛠️ Languages & Tools
 <div align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="50" height="50"/>&nbsp;
@@ -61,6 +79,15 @@
 
 ---
 
+### ✍️ Blog Posts
+<!-- BLOG-POST-LIST:START -->
+- [Getting Started with AI Computer Vision](#)
+- [How to Build a Real-Time Chat App with Socket.io](#)
+- [Flutter vs React Native: Which One to Choose?](#)
+<!-- BLOG-POST-LIST:END -->
+
+---
+
 ### 🔥 GitHub Stats
 <div align="center">
   
@@ -71,6 +98,12 @@
 
 ---
 
-### 🚀 Fun Fact
-_"Great code is like good art, simple yet powerful."_ ✨
+### 🌱 Current Goals
+- Advance in **Fullstack Development** (Next.js, Node.js, MongoDB)  
+- Improve **AI skills** in NLP & Computer Vision  
+- Share knowledge through **open-source projects**  
 
+---
+
+### ⚡ Fun Fact
+_"Great code is like good art, simple yet powerful."_ ✨
